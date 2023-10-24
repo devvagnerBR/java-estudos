@@ -47,6 +47,8 @@ public class Aulas {
         System.out.println("Measue with eight decimal places: " + measure);
         System.out.printf("Rouded (three decimal places): %.3f%n", measure);
         System.out.printf("US decimal point: %.3f%n", measure);
-
     }
 }
+
+
+
