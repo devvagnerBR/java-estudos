@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Aulas {
+public class Aula01 {
 
     public static void main(String[] args) {
         int y = 32;
@@ -49,6 +49,3 @@ public class Aulas {
         System.out.printf("US decimal point: %.3f%n", measure);
     }
 }
-
-
-

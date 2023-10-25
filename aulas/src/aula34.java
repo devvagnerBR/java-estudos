@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class aula34 {
+public class Aula34 {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-class Aula_2 {
+class Aula02 {
     
     public static void main(String[] args) {
         

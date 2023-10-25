@@ -1,6 +1,6 @@
 // Aula - OPERADORES LÓGICOS
 
-public class aula33 {
+public class Aula33 {
 
     // && - E
     // || - OU
