@@ -1,4 +1,4 @@
-// Aula - 49 - Teste de mesa com estrutura repetitiva for
+// Aula - 49 - estrutura repetitiva for
 
 package estrutura_de_repeticao;
 
@@ -23,7 +23,7 @@ public class Aula49 {
         System.out.println("soma total dos números: " + soma);
         sc.close();
 
-        
+
     }
 
 }
