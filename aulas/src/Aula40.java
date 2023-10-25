@@ -1,4 +1,4 @@
-// Aula 40 - ESCOPO É INICIALIZAÇÃO
+// Aula 40 - ESCOPO E INICIALIZAÇÃO
 
 public class Aula40 {
 
