@@ -1,6 +1,6 @@
 // AULA - EXPRESSÕES COMPARATIVAS
 
-public class aula30 {
+public class aula32 {
 
     // > maior
     // < menor
