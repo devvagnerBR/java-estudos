@@ -13,7 +13,7 @@ public class Aula_4 {
 
     x= sc.nextInt(); 
     sc.nextLine(); //para consumir a quebra de linha do nextInt
-    
+
     s1 = sc.nextLine();
     s2 = sc.nextLine();
     s3 = sc.nextLine();
