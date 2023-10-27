@@ -1,6 +1,6 @@
 package memoria_arrays_listas;
 
-public class Aula88 {
+public class Aula86 {
 
     public static void main(String[] args) {
 
