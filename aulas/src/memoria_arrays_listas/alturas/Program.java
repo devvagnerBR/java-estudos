@@ -49,6 +49,13 @@ public class Program {
 
         System.out.printf("Pessoas com menos de 16 anos: %.1f%%%n", percent);
 
+        for (int i = 0; i < n; i++) {
+            if (ages[i] < 16) {
+                System.out.println(names[i]);
+            }
+        }
+
+        
         sc.close();
 
     }
