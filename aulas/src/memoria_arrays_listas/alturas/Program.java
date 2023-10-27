@@ -38,6 +38,17 @@ public class Program {
 
         System.out.printf("Altura média: %.2f%n", avg);
 
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if (ages[i] < 16) {
+                count++;
+            }
+        }
+
+        double percent = (double) count / n * 100.0;
+
+        System.out.printf("Pessoas com menos de 16 anos: %.1f%%%n", percent);
+
         sc.close();
 
     }
