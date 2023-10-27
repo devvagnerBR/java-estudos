@@ -1,4 +1,4 @@
-package memoria_arrays_listas.vector;
+package memoria_arrays_listas.vectorI;
 
 import java.util.Locale;
 import java.util.Scanner;
